@@ -1,9 +1,15 @@
 #  👋 Hi, I'm Shiva
+   
    🔥 Data Analyst grinding hard to make something cool
+   
    ✨ Favorite Tech: Python, HTML, CSS, JavaScript.
+   
    📓 I’m currently learning Data analyst. 
+   
    📧 Email: palshiva008@gmail.com
+   
    💼 Linkedin: www.linkedin.com/in/shivapal6387536738
+   
    ✨ Twitter: https://x.com/SHIVAPAL399035
 
 
